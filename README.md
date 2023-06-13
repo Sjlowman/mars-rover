@@ -1,6 +1,6 @@
-# TypeScript project with Tests
+# Mars Rover project
 
-This repository can be used as a template for creating a TypeScript project using Jest for testing.
+This repository was initialise using the TechReturners template for creating a TypeScript project using Jest for testing.
 
 ## Instructions
 
